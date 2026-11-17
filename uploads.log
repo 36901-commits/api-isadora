@@ -1,0 +1,13 @@
+2026-11-17 15:46:21,057 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.220:5000
+2026-11-17 15:46:21,066 - [33mPress CTRL+C to quit[0m
+2026-11-17 15:47:42,028 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.220:5000
+2026-11-17 15:47:42,029 - [33mPress CTRL+C to quit[0m
+2026-11-17 15:49:33,879 - 127.0.0.1 - - [17/Nov/2026 15:49:33] "[33mGET /**?utm_source=chatgpt.com HTTP/1.1[0m" 404 -
+2026-11-17 15:49:34,295 - 127.0.0.1 - - [17/Nov/2026 15:49:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-11-17 15:50:17,957 - 127.0.0.1 - - [17/Nov/2026 15:50:17] "GET / HTTP/1.1" 200 -
